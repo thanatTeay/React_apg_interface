@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Audience Participation Games Interface
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Interface website (https://apg-interface.web.app/)
 
 ## Available Scripts
 
