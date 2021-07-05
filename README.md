@@ -1,5 +1,5 @@
 # Audience Participation Games Interface
-This is a interface of Audiences Participantion Games following [Design challenges for livestreamed audience participation games](https://dl.acm.org/doi/pdf/10.1145/3242671.3242708?casa_token=0xtivjyfar0AAAAA:XqAzyqw97Cxm5K2XP4cvEF86nm_asU78LsiG5f_dtjl67plG9XGmz57CRN1JFwvSUPWPkX65Z70AxIM)
+This is a interface of Audiences Participantion Games following [Design challenges for livestreamed audience participation games](https://dl.acm.org/doi/pdf/10.1145/3242671.3242708?casa_token=0xtivjyfar0AAAAA:XqAzyqw97Cxm5K2XP4cvEF86nm_asU78LsiG5f_dtjl67plG9XGmz57CRN1JFwvSUPWPkX65Z70AxIM) <br>
 Interface website (https://apg-interface.web.app/)
 
 ## Available Scripts
