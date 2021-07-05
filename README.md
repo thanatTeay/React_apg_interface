@@ -8,10 +8,17 @@ This interface includes many API such as Twitch API, Bootstrap API, and etc. Thi
 
 ## How to use this interface
 This interface consists of 4 pages:
-<a href="#login">Login page</a>
-<a href="#register">Register page</a>
-<a href="#submit">Submit page</a>
-<a href="#main">Main page</a>
-
+<li>
+  <a href="#login">Login page</a>
+</li>
+<li>
+  <a href="#register">Register page</a>
+</li>
+<li>
+  <a href="#submit">Submit page</a>
+</li>
+<li>
+  <a href="#main">Main page</a>
+</li>
 ##Login page
-![image](https://user-images.githubusercontent.com/79521432/124487218-66fe6a80-dde9-11eb-9702-7a3ba093588c.png)
+![image](https://user-images.githubusercontent.com/79521432/124487357-901efb00-dde9-11eb-8902-6be578038483.png)
