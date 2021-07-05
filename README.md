@@ -21,6 +21,14 @@ This interface consists of 4 pages:
   <a href="#main">Main page</a>
 </li>
 
-##Login page
-
+## Login page
 ![image](https://user-images.githubusercontent.com/79521432/124487357-901efb00-dde9-11eb-8902-6be578038483.png)
+
+## Register page
+![image](https://user-images.githubusercontent.com/79521432/124487717-04599e80-ddea-11eb-9920-d91a6a2b0731.png)
+
+## Submit page
+![image](https://user-images.githubusercontent.com/79521432/124487835-218e6d00-ddea-11eb-9872-d036794d7f11.png)
+
+## Main page
+![image](https://user-images.githubusercontent.com/79521432/124487964-44208600-ddea-11eb-9d2e-d25a0f2b68fb.png)
