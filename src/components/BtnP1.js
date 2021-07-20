@@ -19,7 +19,7 @@ const BtnP1 = () =>{
         },
         identity: {
             username: 'ligoligo12',
-            password: 'oauth:2adeuj6p5ui8ujtxmqwkf55sk5janf'
+            password: 'oauth:cgodb25scz9qnky8srrwtejmmddhmb'
         },
         channels: ['ligoligo12']
     });

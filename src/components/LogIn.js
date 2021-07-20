@@ -93,6 +93,14 @@ const LogIn = () => {
 
 
     function ConditionToMain() {
+
+        db.collection('countuser').doc('onweb').update({
+
+            p1team: countP1team,
+            p2team: countP2team
+
+        })
+
         if (countP1team - countP2team > 2) {
             //alert("Welcome to Player 2 team, now there are "+countP1team+" players on a team of 1 player and there are "+countP2team+" players on a 2 player team.")
             window.location.href = "/MainP2"
@@ -125,12 +133,8 @@ const LogIn = () => {
 
             }
         }
-        db.collection('countuser').doc('onweb').update({
 
-            p1team: countP1team,
-            p2team: countP2team
-
-        })
+       
 
 
 

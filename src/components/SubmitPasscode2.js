@@ -88,7 +88,7 @@ const SubmitPasscode2 = () => {
 
                         let diff = getDifferenceInMinutes(date1, date2)
                         console.log(diff)
-                        if (diff <= 10) {
+                        if (diff <= 20) {
                             db.collection('user').doc(currentUser.uid).update({
                                 passcode2: passcode.value,
                                 answerSecordQuestion: true,
