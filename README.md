@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Audience Participation Games Interface
+This is a interface of Audiences Participantion Games following [Design challenges for livestreamed audience participation games](https://dl.acm.org/doi/pdf/10.1145/3242671.3242708?casa_token=0xtivjyfar0AAAAA:XqAzyqw97Cxm5K2XP4cvEF86nm_asU78LsiG5f_dtjl67plG9XGmz57CRN1JFwvSUPWPkX65Z70AxIM) <br>
+Interface website (https://apg-interface.web.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Software tools -->
+## Software tools
+This interface includes many API such as Twitch API, Bootstrap API, and etc. This website developed by using React JS with Visual studio code and using Firestore including firebase authentication and firebase host for deploy this website.
 
-## Available Scripts
+## How to use this interface
+This interface consists of 4 pages:
+<li>
+  <a href="#login">Login page</a>
+</li>
+<li>
+  <a href="#register">Register page</a>
+</li>
+<li>
+  <a href="#submit">Submit page</a>
+</li>
+<li>
+  <a href="#main">Main page</a>
+</li>
 
-In the project directory, you can run:
+## Login page
+![image](https://user-images.githubusercontent.com/79521432/124487357-901efb00-dde9-11eb-8902-6be578038483.png)
 
-### `yarn start`
+## Register page
+![image](https://user-images.githubusercontent.com/79521432/124487717-04599e80-ddea-11eb-9920-d91a6a2b0731.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Submit page
+![image](https://user-images.githubusercontent.com/79521432/124487835-218e6d00-ddea-11eb-9872-d036794d7f11.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Main page
+![image](https://user-images.githubusercontent.com/79521432/124487964-44208600-ddea-11eb-9d2e-d25a0f2b68fb.png)
